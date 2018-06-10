@@ -1,0 +1,10 @@
+{
+  "pkgFiles": [
+    "package.json"
+  ],
+  "github": {
+    "release": true,
+    "releaseName": "Release %s",
+    "tokenRef": "GITHUB_TOKEN"
+  }
+}
